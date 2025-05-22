@@ -7,9 +7,11 @@
 nome = 'João Manuel'
 # Declare variáveis de cada tipo numérico
 prestacao = 6
-salario - 1800.50 
+salario = 1800.50 
 
 
 # Declare uma variável do tipo booleano
 verdadeiro = True
 falso = False
+
+print (salario)
