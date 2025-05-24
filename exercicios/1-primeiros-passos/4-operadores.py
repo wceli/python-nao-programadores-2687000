@@ -14,3 +14,5 @@ print(4==2)
 # Crie expressões comparativas mais complexas utilizando operadores lógicos and, or e not. Imprima na tela as respostas
 print(2==2 and 3==2)
 print(2==3 or 5>4)
+print (not 2==3)
+print (not 3==3)
